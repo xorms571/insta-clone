@@ -1,4 +1,4 @@
-# 📸 React107 - Instagram 클론 웹 앱 / Instagram Clone Web App
+# 📸 Instagram 클론 웹 앱 / Instagram Clone Web App
 
 ## 소개 / Introduction
 
