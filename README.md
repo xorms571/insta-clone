@@ -5,7 +5,7 @@
 **React107** 프로젝트는 **React**와 **TypeScript**를 학습하기 위해 제작한 **Instagram 클론 웹 애플리케이션**입니다.  
 **React107** is an **Instagram clone web application** built for the purpose of learning **React** and **TypeScript**.  
 
-기본적인 SNS 기능을 구현하면서 프론트엔드 개발 능력을 향상시키고, 
+기본적인 SNS 기능을 구현하면서 프론트엔드 개발 능력을 향상시키고,  
 The project focuses on implementing core SNS features to enhance frontend development skills  
 Firebase와 같은 백엔드 서비스를 통합하는 경험을 쌓기 위해 진행했습니다.  
  and gain experience integrating backend services like Firebase.
