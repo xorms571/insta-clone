@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  -ms-overflow-style: none;
+  }
+ ::-webkit-scrollbar {
+   display: none;
+ }
+ .swiper {
+   --swiper-theme-color: rgba(255,255,255,.7);
+ }
